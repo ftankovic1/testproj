@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main() {
-	printf("Pozdrav\n");
+	printf("Pozdrav checkout na master\n");
 }
